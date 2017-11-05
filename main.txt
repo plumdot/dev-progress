@@ -1,0 +1,14 @@
+// Nov 5, 2017
+
+Finished HackReactor's Underbar and Koans assignment. Need to do 'toy problems' daily to keep up to date.
+
+Started working on HackReactor's Twittler assignment. Rusty on Jquery and CSS. I added Bootstrap4 to style it. 
+
+Reviewed JS ES6. Need to start using the new methods.
+
+To focus on next week:
+
+* Koans Extra Credit
+* HR's deadline 3 (Recursion)
+* Flesh out River website with Bootstrap
+
